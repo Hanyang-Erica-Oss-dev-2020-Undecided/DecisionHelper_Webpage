@@ -15,11 +15,14 @@
 - 코드리뷰, 이슈
 > Project 사용
 >> [Organization Project](https://github.com/orgs/Hanyang-Erica-Oss-dev-2020-Undecided/projects)
+
 >> [App repository Project](https://github.com/Hanyang-Erica-Oss-dev-2020-Undecided/Decision-Helper/projects)
+
 >> [Web repository Project](https://github.com/Hanyang-Erica-Oss-dev-2020-Undecided/DecisionHelper_Webpage/projects)
 
 > Issue
 >> [App repository Issue](https://github.com/Hanyang-Erica-Oss-dev-2020-Undecided/Decision-Helper/issues)
+
 >>[Webpage repository Issue](https://github.com/Hanyang-Erica-Oss-dev-2020-Undecided/DecisionHelper_Webpage/issues)
 
 ### 개발(app) ###
@@ -38,10 +41,13 @@
 - 프로젝트 멤버 소개
 >권태윤, 손홍일, 이민재, 박민응, 강민준
 >> github repository (click for checkout)
+
 >>[권태윤](https://github.com/Connoriginal), [손홍일](https://github.com/sonhl0723), [이민재](https://github.com/sochubert/oss2020), [박민응](https://github.com/sochubert/oss2020), [강민준](https://github.com/Min-Jun-Kang/minjun)
 - 프로젝트 repository
 > [Organization repository](https://github.com/Hanyang-Erica-Oss-dev-2020-Undecided)
+>
 > [App project repository](https://github.com/Hanyang-Erica-Oss-dev-2020-Undecided/Decision-Helper)
+> 
 > [Webpage project repository](https://github.com/Hanyang-Erica-Oss-dev-2020-Undecided/DecisionHelper_Webpage)
 
 - 문서화 부분
