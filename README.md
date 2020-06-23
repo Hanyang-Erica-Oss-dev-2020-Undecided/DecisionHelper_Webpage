@@ -8,8 +8,8 @@ This Webpage is providing information about the application.
 [images/undecided_webpage](https://hanyang-erica-oss-dev-2020-undecided.github.io/DecisionHelper_Webpage/theme/index.html)
 ----
 ## Contents
-* [About our application](#about our application)
-* [Introducing our project](#introducing our project)
+* [About our application](#About our application)
+* [Introducing our project](#Introducing our project)
 * [Contributing & Communicating](#Contributing & Communicating)
 * [License](#license)
 ----
