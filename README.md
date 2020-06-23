@@ -5,7 +5,7 @@ This Webpage is providing information about the application.
 ## Click for Webpage
 [Invite you!](https://hanyang-erica-oss-dev-2020-undecided.github.io/DecisionHelper_Webpage/theme/index.html)
 
-[images/undecided_webpage](https://hanyang-erica-oss-dev-2020-undecided.github.io/DecisionHelper_Webpage/theme/index.html)
+![images//Users/hongil/desktop/undecided_webpage.png](https://hanyang-erica-oss-dev-2020-undecided.github.io/DecisionHelper_Webpage/theme/index.html)
 ----
 ## Contents
 * [About our application](#About our application)
@@ -14,7 +14,7 @@ This Webpage is providing information about the application.
 * [License](#license)
 ----
 ## About our application
-* <br>Check out our GitHub or Webpage</br>
+* Check out our GitHub or Webpage<br></br>
 <br>[GitHub address](https://github.com/sonhl0723/Decision-Helper.git)</br>
 [Webpage address](https://hanyang-erica-oss-dev-2020-undecided.github.io/DecisionHelper_Webpage/theme/index.html)
 ----
