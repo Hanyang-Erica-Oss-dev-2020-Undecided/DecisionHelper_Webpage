@@ -16,7 +16,7 @@
 ----
 ## About our application
 * Check out our GitHub or Webpage
--[GitHub address](https://github.com/sonhl0723/Decision-Helper.git)
+<br>-[GitHub address](https://github.com/sonhl0723/Decision-Helper.git)</br>
 -[Webpage address](https://hanyang-erica-oss-dev-2020-undecided.github.io/DecisionHelper_Webpage/theme/index.html)
 ----
 ## Introducing our project
