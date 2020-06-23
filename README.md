@@ -2,10 +2,10 @@
 ----
 This Webpage is providing information about the application.
 ----
-## Click for Webpage##
+## Click for Webpage
 [Invite you!](https://hanyang-erica-oss-dev-2020-undecided.github.io/DecisionHelper_Webpage/theme/index.html)
 
-(images/undecided_webpage)(https://hanyang-erica-oss-dev-2020-undecided.github.io/DecisionHelper_Webpage/theme/index.html)
+[images/undecided_webpage](https://hanyang-erica-oss-dev-2020-undecided.github.io/DecisionHelper_Webpage/theme/index.html)
 ----
 ## Contents
 * [About our application](#about our application)
