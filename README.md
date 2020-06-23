@@ -5,12 +5,12 @@ This Webpage is providing information about the application.
 ## Click for Webpage
 [Invite you!](https://hanyang-erica-oss-dev-2020-undecided.github.io/DecisionHelper_Webpage/theme/index.html)
 
-![images//Users/hongil/desktop/undecided_webpage.png](https://hanyang-erica-oss-dev-2020-undecided.github.io/DecisionHelper_Webpage/theme/index.html)
+[!(Users/hongil/desktop/undecided_webpage.png)](https://hanyang-erica-oss-dev-2020-undecided.github.io/DecisionHelper_Webpage/theme/index.html)
 ----
 ## Contents
-* [About our application](#About our application)
-* [Introducing our project](#Introducing our project)
-* [Contributing & Communicating](#Contributing & Communicating)
+* [About our application](# About our application)
+* [Introducing our project](# Introducing our project)
+* [Contributing & Communicating](# Contributing & Communicating)
 * [License](#license)
 ----
 ## About our application
