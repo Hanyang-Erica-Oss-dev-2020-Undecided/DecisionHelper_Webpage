@@ -5,7 +5,7 @@
 ## Click for Webpage
 [Invite you!](https://hanyang-erica-oss-dev-2020-undecided.github.io/DecisionHelper_Webpage/theme/index.html)
 
-![Preview](/Users/hongil/desktop/undecided_webpage.png)
+![Preview](desktop/undecided_webpage.png)
 ----
 ## Contents
 * [About our application](# About our application)
