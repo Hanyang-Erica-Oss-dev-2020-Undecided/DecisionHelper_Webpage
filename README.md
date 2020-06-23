@@ -1,22 +1,23 @@
 # DecisionHelper_Webpage
 ----
-### This Webpage is providing information about the application.
+##### This Webpage is providing information about the application.
 ----
 ## Click for Webpage
-[Invite you!](https://hanyang-erica-oss-dev-2020-undecided.github.io/DecisionHelper_Webpage/theme/index.html)
+-[Invite you!](https://hanyang-erica-oss-dev-2020-undecided.github.io/DecisionHelper_Webpage/theme/index.html)
 
-![Preview](desktop/undecided_webpage.png)
+[![](/image/undecided_webpage.png)](https://hanyang-erica-oss-dev-2020-undecided.github.io/DecisionHelper_Webpage/theme/index.html)
+
 ----
 ## Contents
-* [About our application](# About our application)
-* [Introducing our project](# Introducing our project)
-* [Contributing & Communicating](# Contributing & Communicating)
+* [About our application](#about)
+* [Introducing our project](#introducing)
+* [Contributing & Communicating](#contributing)
 * [License](#license)
 ----
 ## About our application
-* Check out our GitHub or Webpage<br></br>
-<br>[GitHub address](https://github.com/sonhl0723/Decision-Helper.git)</br>
-[Webpage address](https://hanyang-erica-oss-dev-2020-undecided.github.io/DecisionHelper_Webpage/theme/index.html)
+* Check out our GitHub or Webpage
+-[GitHub address](https://github.com/sonhl0723/Decision-Helper.git)
+-[Webpage address](https://hanyang-erica-oss-dev-2020-undecided.github.io/DecisionHelper_Webpage/theme/index.html)
 ----
 ## Introducing our project
 
