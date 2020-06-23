@@ -5,7 +5,7 @@
 ## Click for Webpage
 -[Invite you!](https://hanyang-erica-oss-dev-2020-undecided.github.io/DecisionHelper_Webpage/theme/index.html)
 
-[![](/image/undecided_webpage.png)](https://hanyang-erica-oss-dev-2020-undecided.github.io/DecisionHelper_Webpage/theme/index.html)
+[![](DecisionHelper_Webpage/image/undecided_webpage.png)](https://hanyang-erica-oss-dev-2020-undecided.github.io/DecisionHelper_Webpage/theme/index.html)
 
 ----
 ## Contents
