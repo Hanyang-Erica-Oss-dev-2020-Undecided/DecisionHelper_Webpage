@@ -9,9 +9,9 @@
 
 ----
 ## Contents
-* [About our application](#about)
-* [Introducing our project](#introducing)
-* [Contributing & Communicating](#contributing)
+* [About our application](#about-our-application)
+* [Introducing our project](#introducing-our-project)
+* [Contributing & Communicating](#contributing--communicating)
 * [License](#license)
 ----
 ## About our application
