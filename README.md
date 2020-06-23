@@ -1,11 +1,11 @@
 # DecisionHelper_Webpage
 ----
-This Webpage is providing information about the application.
+### This Webpage is providing information about the application.
 ----
 ## Click for Webpage
 [Invite you!](https://hanyang-erica-oss-dev-2020-undecided.github.io/DecisionHelper_Webpage/theme/index.html)
 
-[!(Users/hongil/desktop/undecided_webpage.png)](https://hanyang-erica-oss-dev-2020-undecided.github.io/DecisionHelper_Webpage/theme/index.html)
+![Preview](/Users/hongil/desktop/undecided_webpage.png)
 ----
 ## Contents
 * [About our application](# About our application)
