@@ -6,7 +6,7 @@
 - [협력](#협력)
 - [개발(app)](#개발(app))
 - [개발(web)](#개발(web))
-- [문서화](#문서화)
+
 
 
 ### 협력 ###
@@ -20,7 +20,7 @@
 >>
 >> [Web repository Project](https://github.com/Hanyang-Erica-Oss-dev-2020-Undecided/DecisionHelper_Webpage/projects)
 
-> Issue
+> Issue & Milestone
 >> [App repository Issue](https://github.com/Hanyang-Erica-Oss-dev-2020-Undecided/Decision-Helper/issues)
 >>
 >>[Webpage repository Issue](https://github.com/Hanyang-Erica-Oss-dev-2020-Undecided/DecisionHelper_Webpage/issues)
@@ -31,6 +31,23 @@
 
 - 팀 repository
 > [app repository](https://github.com/Hanyang-Erica-Oss-dev-2020-Undecided/Decision-Helper)
+- 3 Tier 구조
+> Front-end
+> Back-end
+> DB
+
+<img src="image/Login.png" width="300" height="400"> <img src="image/Register.png" width="300" height="400">
+
+<img src="image/fileZilla.png" width="300" height="400"> <img src="image/mainpage.png" width="300" height="400">
+
+<img src="image/DBimage.png" width="600" height="400">
+
+<img src="image/beforeStart.png" width="300" height="400"> <img src="image/gamePage.png" width="300" height="400">
+
+
+
+
+
 
 
 
