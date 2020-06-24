@@ -41,8 +41,7 @@
 <img src="image/fileZilla.png" width="300" height="400"> <img src="image/mainpage.png" width="300" height="400">
 
 <img src="image/DBimage.png" width="600" height="400">
-<img src="image/beforestart.png" width="300" height="400">
-<img src="image/gamepage.png" width="300" height="400">
+<img src="image/beforeStart.png" width="300" height="400"> <img src="image/gamePage.png" width="300" height="400">
 
 
 
