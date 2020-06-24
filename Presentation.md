@@ -6,7 +6,7 @@
 - [협력](#협력)
 - [개발(app)](#개발(app))
 - [개발(web)](#개발(web))
-- [문서화](#문서화)
+
 
 
 ### 협력 ###
@@ -36,7 +36,17 @@
 > Back-end
 > DB
 
-![login](image/Login.png){: width="10px" height="10px"}
+<img src="image/Login.png" width="300" height="400"> <img src="image/Register.png" width="300" height="400">
+
+<img src="image/fileZilla.png" width="300" height="400"> <img src="image/mainpage.png" width="300" height="400">
+
+<img src="image/DBimage.png" width="600" height="400">
+<img src="image/beforestart.png" width="300" height="400">
+<img src="image/gamepage.png" width="300" height="400">
+
+
+
+
 
 
 
