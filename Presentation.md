@@ -10,6 +10,8 @@
 
 
 ### 협력 ###
+- Doucuments
+> app respository의 [README.md](https://github.com/Hanyang-Erica-Oss-dev-2020-Undecided/Decision-Helper/blob/develop/README.md)에 설명이 나와 있습니다.
 - 소통
 > by slack and [google docs](https://docs.google.com/document/d/1kHmPFcuxkHlAmARtdfunLj__AHHwikMT09TdQ3wyzNU/edit)
 - 코드리뷰, 이슈
