@@ -20,7 +20,7 @@
 >>
 >> [Web repository Project](https://github.com/Hanyang-Erica-Oss-dev-2020-Undecided/DecisionHelper_Webpage/projects)
 
-> Issue
+> Issue & Milestone
 >> [App repository Issue](https://github.com/Hanyang-Erica-Oss-dev-2020-Undecided/Decision-Helper/issues)
 >>
 >>[Webpage repository Issue](https://github.com/Hanyang-Erica-Oss-dev-2020-Undecided/DecisionHelper_Webpage/issues)
@@ -31,7 +31,12 @@
 
 - 팀 repository
 > [app repository](https://github.com/Hanyang-Erica-Oss-dev-2020-Undecided/Decision-Helper)
+- 3 Tier 구조
+> Front-end
+> Back-end
+> DB
 
+![login](image/Login.png){: width="10px" height="10px"}
 
 
 
